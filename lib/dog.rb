@@ -3,7 +3,6 @@ class Dog
     @name = dogname
     @breed = dogbreed
   end
-  def
 end
 
 fido = Dog.new("Fido","Pug")
